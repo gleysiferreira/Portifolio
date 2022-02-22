@@ -10,7 +10,7 @@ O projeto foi criado em:
 - [x] Criação do CSS
 - [x] Criação do JavaScript
 
-      <a href="file:///C:/Users/Usuario/Desktop/Code%20Club/Portifolio/Portifolio-3/index.html">
+Resultado https://gleysiferreira.github.io/Portifolio/
 
 ## 🤝 Colaboradores
 

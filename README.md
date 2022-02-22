@@ -10,7 +10,11 @@ O projeto foi criado em:
 - [x] Criação do CSS
 - [x] Criação do JavaScript
 
+<<<<<<< HEAD
 Resultado: https://gleysiferreira.github.io/Portifolio/
+=======
+Resultado https://gleysiferreira.github.io/Portifolio/
+>>>>>>> 2f1e0a0f6f145266b15d0998ef624d5964a409cc
 
 ## 🤝 Colaboradores
 
